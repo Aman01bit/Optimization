@@ -1,5 +1,4 @@
 # README
-- Submission by Hostel 76.
 
 ## Overview
 This program processes input files containing crystal and mine data, evaluates different strategies for maximizing resource collection while minimizing losses from mines, and generates output based on the best strategy.
