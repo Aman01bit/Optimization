@@ -48,20 +48,21 @@ The program generates structured output depending on the optimal strategy found.
 
 ## Compilation & Execution
 ### Compilation
+Example - 
 Use `g++` to compile the program:
 ```sh
- g++ -o crystal_mine_solver main.cpp -O2
+ g++ -o file_name.cpp -O2
 ```
 
 ### Execution
 Run the program with input and output redirection:
 ```sh
-./crystal_mine_solver < input/input01.txt > output/output01.txt
+./file < input/input01.txt > output/output01.txt
 ```
 
 Alternatively, batch processing can be done using:
 ```sh
-./crystal_mine_solver
+./file
 ```
 This will process multiple input files as defined in `inp_normal()`.
 
